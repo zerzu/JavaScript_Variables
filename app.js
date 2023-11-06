@@ -26,7 +26,7 @@ const firstName =
 
 lastName = "Garner";
 
-let age = 42;
+age = 42;
 
 // Exercise 3
 
